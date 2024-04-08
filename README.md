@@ -1,10 +1,27 @@
-# hello, im uto(shu)!
-im a developer, whos interested in AI, web-apps, and UI/UX design.
+```python
+class README:
+    def __init__(self):
+        self.username = "uto"
+        self.age = "13"
+        self.about = """im uto. a 13 year old self-taught developer, my interests include programming, gaming, typing, basketball, and "old"-retro stuff. 
+        my favourite programming languages are rust, python & c#.
+        im best at c#, and python. i also like writing/typing (essays, poems, etc) and reading is also something i like to do
+        """
+        
+        self.links = "https://guns.lol/elo","https://uto.pages.dev", "https://gitlab.com/utoshu", "https://steamcommunity.com/id/utoshu"
+       
 
-# skills
-## Languages (Best to Worst):
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) " ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)" ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br>
-## Operating Systems:
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)<br>
-## Text Editors/IDE's:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+    def show_info(self):
+        print("name =", self.username)
+        print("age =", self.age)
+        print("about =", self.about)
+        print("external links = ", self.links)
+        
+         
+def main():
+    readme = README()
+    readme.show_info()
+    
+if __name__ == "__main__":
+    main()
+```
