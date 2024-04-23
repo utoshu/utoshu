@@ -16,4 +16,4 @@ some of my hobbies include-
 - writing & reading
 - being with friends
 
-you should check out ![my website](https://uto.pages.dev) :>
+you should check out [my website](https://uto.pages.dev) :>
