@@ -4,7 +4,6 @@ hello, im uto. a 13 year old self-taught developer
 i like (coding-wise)-
 
 <ul>
-        
         <li>vanilla &amp; static web development</li>
         <li>css &amp; html</li>
         <li>free &amp; open-source software</li>
@@ -13,7 +12,6 @@ i like (coding-wise)-
     </ul>
     some of my hobbies include-
     <ul>
-        
         <li>basketball</li>
         <li>coding</li>
         <li>playing chess</li>
