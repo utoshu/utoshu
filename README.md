@@ -1,19 +1,21 @@
-# hello and welcome
+<p>hello and welcome</p>
+<p>im uto, a 13 year old developer</p>
+<p>i like (coding-wise)-</p>
 
-im uto, a 13 year old developer
-
-i like (coding-wise)-
-- vanilla & static web development
-- css & html
-- free & open-source software
-- windows forms applications
-- c++ for minecraft cheat development
+<ul>
+    <li>vanilla &amp; static web development</li>
+        <li>css &amp; html</li>
+        <li>free &amp; open-source software</li>
+        <li>windows forms applications</li>
+        <li>c++ for minecraft cheat development</li>
+    </ul>
+    <p>some of my hobbies include-</p>
+    <ul>
+        <li>basketball</li>
+        <li>coding</li>
+        <li>playing chess</li>
+        <li>writing &amp; reading</li>
+        <li>being with friends</li>
+    </ul>
     
-some of my hobbies include-
-- basketball
-- coding
-- playing chess
-- writing & reading
-- being with friends
-
-you should check out [my website](https://uto.pages.dev) :>
+<p>you should check out <a href="https://uto.pages.dev">my website</a> :&gt;</p>
