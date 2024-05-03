@@ -1,6 +1,7 @@
-<p>hello and welcome</p>
-<p>im uto, a 13 year old developer</p>
-<p>i like (coding-wise)-</p>
+<samp>
+hello and welcome
+  im uto, a 13 year old developer
+  i like (coding-wise)-
 
 <ul>
     <li>vanilla &amp; static web development</li>
@@ -19,3 +20,4 @@
     </ul>
     
 <p>you should check out <a href="https://uto.pages.dev">my website</a> :&gt;</p>
+</samp>
