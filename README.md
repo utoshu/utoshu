@@ -1,10 +1,10 @@
 <samp>
-hello and welcome
-  im uto, a 13 year old developer
-  i like (coding-wise)-
+hello, im uto. a 13 year old self-taught developer
+<br><br>
+i like (coding-wise)-
 
 <ul>
-    <li>vanilla &amp; static web development</li>
+        <li>vanilla &amp; static web development</li>
         <li>css &amp; html</li>
         <li>free &amp; open-source software</li>
         <li>windows forms applications</li>
