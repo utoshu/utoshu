@@ -10,7 +10,7 @@ i like (coding-wise)-
         <li>windows forms applications</li>
         <li>c++ for minecraft cheat development</li>
     </ul>
-    <p>some of my hobbies include-</p>
+    some of my hobbies include-
     <ul>
         <li>basketball</li>
         <li>coding</li>
